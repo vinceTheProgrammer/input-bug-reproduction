@@ -272,6 +272,26 @@
           "Scale": 0.2
         }
       ]
+    },
+    {
+      "__guid": "1b31b52a-f48f-4c1c-9480-2e08fc995930",
+      "Flags": 0,
+      "Name": "Cube",
+      "Enabled": true,
+      "Components": [
+        {
+          "__type": "Sandbox.ModelRenderer",
+          "__guid": "0ae1ef28-4ef5-474a-bee4-0457756d05be",
+          "BodyGroups": 18446744073709551615,
+          "Model": "models/dev/box.vmdl",
+          "RenderType": "On",
+          "Tint": "1,1,1,1"
+        },
+        {
+          "__type": "InputThing",
+          "__guid": "c7f2caa5-9118-4aa1-9721-09917eb51cca"
+        }
+      ]
     }
   ],
   "SceneProperties": {
